@@ -1,0 +1,19 @@
+body {
+    background: rgb(2,0,36);
+}
+
+.container {
+    bottom: 10%;
+}
+
+.c19-logo {
+    padding: 15px;
+}
+
+.c19-logo img {
+    width: 200px;
+}
+
+.scan-mode {
+    color: #fff;
+}
